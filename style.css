@@ -1,0 +1,66 @@
+table {
+    width: 60%;
+    margin-bottom: 40px;
+   
+    
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.team-pic{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+ }
+
+h2{
+    color: #fff;
+    text-align: center;
+}
+body{
+
+    background-color: rgb(44, 31, 31);
+}
+
+caption{
+
+    color: #fff;
+    font-size: x-large;
+
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+th {
+    text-align: left;
+}
+
+table, th, td {
+    border: 3px solid #000;
+    border-collapse: collapse;
+    padding: 6px;
+    align
+}
+
+tr:nth-child(even){
+    background-color: #fff;
+    color: #ff0000;
+}
+
+tr:nth-child(odd){
+    background-color: #ee4747;
+    color:#fff;
+}
