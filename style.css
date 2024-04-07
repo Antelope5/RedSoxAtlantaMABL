@@ -1,8 +1,12 @@
 table {
-    width: 60%;
+    width: 100%;
     margin-bottom: 40px;
    
     
+}
+.table-container{
+    max-width: 100%;
+    overflow-x: scroll;
 }
 
 .center{
@@ -20,6 +24,7 @@ table {
 }
 
 h1{
+    width:100%;
     color: #fff;
     text-align: center;
     font-weight: bold;
@@ -27,6 +32,7 @@ h1{
  }
 
 h2{
+    width:100%;
     color: #fff;
     text-align: center;
 }
@@ -52,7 +58,7 @@ table, th, td {
     border: 3px solid #000;
     border-collapse: collapse;
     padding: 6px;
-    align
+    
 }
 
 tr:nth-child(even){
