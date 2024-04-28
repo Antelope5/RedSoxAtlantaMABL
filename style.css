@@ -71,6 +71,7 @@ caption{
 }
 th {
     text-align: left;
+    background-color: rgb(7, 1, 82);
 }
 
 table, th, td {
