@@ -24,7 +24,7 @@ var EnyerPerozo =[
 ] 
 
 var JulioStats = [
-    {'PA' : 4,'AB' : 3 , 'R' : 0 , 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 0 , 'CS' : 0  },
+    {'PA' : 4,'AB' : 3 , 'R' : 0 , 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 1 , 'CS' : 0  },
     
 
 ]
