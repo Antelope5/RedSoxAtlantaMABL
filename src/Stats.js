@@ -1,12 +1,14 @@
 // This script should get the added stats game by game for each player
 var AlexanderVStats= [
     {'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
 
 ]
 
 var AnthonyStats = [
     {'PA' : 3,'AB' : 3 , 'R' : 2 , 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' : 0 , 'CS' : 0  },
-    
+    {'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+
 
 ]
 
@@ -17,40 +19,61 @@ var BrandinNixon =[
 
 var BrendanLarkin = [
     {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0 },
+    {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
+
 ]
 
 var EnyerPerozo =[
     {'PA' : 3,'AB' :  1, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+
 ] 
 
 var JulioStats = [
     {'PA' : 4,'AB' : 3 , 'R' : 0 , 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 1 , 'CS' : 0  },
+    {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+
     
+
+]
+
+var KevinAlvarez =[
+    {'PA' : 1,'AB' :  1, 'R' : 0 , 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' :0 , 'SB' : 0 , 'CS' :  0 },
+
 
 ]
 
 var LennyPeralta = [
     {'PA' : 3,'AB' :  0, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 3, 'K' : 0, 'SB' :  3, 'CS' : 0  },
+    {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 3, 'SB' :  0, 'CS' : 0  },
 
 ]
 
 var LuisMoronta =[
     {'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+    {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' : 0  },
+
+
+]
+var LuisBaroni =[
+    {'PA' : 2,'AB' : 2 , 'R' :  0, 'H' : 0, 'Single' :0 , 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :   0},
 
 ]
 
 var LuisMartinez = [
     {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' : 0 , 'CS' : 0  },
+    {'PA' : 1,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' :0 , 'K' : 0, 'SB' :  0, 'CS' : 0  },
 
 ]
 
 var LuisMunoz = [
     {'PA' : 3,'AB' : 3 , 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' : 0  },
+    {'PA' : 1,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' :0 , 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 0, 'CS' :  0 },
 
 ]
 
 var ServioRincon =[
     {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 ]
 
@@ -105,7 +128,9 @@ var AlexanderSumStats = addStats(AlexanderVStats);
 var BrandinNixonSumStats = addStats(BrandinNixon);
 var BrendanLarkinSumStats = addStats(BrendanLarkin);
 var EnyerPerozoSumStats = addStats(EnyerPerozo);
+var KevinAlvarezSumStats = addStats(KevinAlvarez);
 var LennyPeraltaSumStats = addStats(LennyPeralta);
+var LuisBaroniSumStats = addStats(LuisBaroni);
 var LuisMorontaSumStats = addStats(LuisMoronta);
 var LuisMartinezSumStats = addStats(LuisMartinez);
 var LuisMunozSumStats = addStats (LuisMunoz);
@@ -169,8 +194,14 @@ BrendanLarkinTotalStats.splice(0,0,"Brendan Larkin");
 var EnyerPerozoTotalStats = EnyerPerozoSumStats.concat(calculateStats(EnyerPerozoSumStats));
 EnyerPerozoTotalStats.splice(0,0,"Enyer Perozo");
 
+var KevinAlvarezTotalStats = KevinAlvarezSumStats.concat(calculateStats(KevinAlvarezSumStats));
+KevinAlvarezTotalStats.splice(0,0,"Kevin Alvarez");
+
 var LennyPeraltaTotalStats = LennyPeraltaSumStats.concat(calculateStats(LennyPeraltaSumStats));
 LennyPeraltaTotalStats.splice(0,0,"Lenny Peralta");
+
+var LuisBaroniTotalStats = LuisBaroniSumStats.concat(calculateStats(LuisBaroniSumStats));
+LuisBaroniTotalStats.splice(0,0,"Luis Baroni");
 
 var LuisMartinezTotalStats = LuisMartinezSumStats.concat(calculateStats(LuisMartinezSumStats));
 LuisMartinezTotalStats.splice(0,0,"Luis Martinez");
@@ -189,7 +220,7 @@ ServioRinconTotalStats.splice(0,0,"Servio Rincon");
 
 
 // CONCATING all the Total stats to make one big array. in alpha order
-var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrandinNixonTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,LennyPeraltaTotalStats,LuisMartinezTotalStats,LuisMorontaTotalStats,LuisMunozTotalStats,ServioRinconTotalStats);
+var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrandinNixonTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMartinezTotalStats,LuisMorontaTotalStats,LuisMunozTotalStats,ServioRinconTotalStats);
 console.log(AllPlayersStats);
 
 
