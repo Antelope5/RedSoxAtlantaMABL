@@ -94,7 +94,7 @@ var ServioRincon =[
     {'PA' : 4,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 ]
-
+//add comment
 
 
 
