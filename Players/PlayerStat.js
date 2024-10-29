@@ -52,6 +52,7 @@ var ServioRincon =[
     {'Game':"vs Blue Sox",'PA' : 4,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 ]
 
+//comment
 function addStats(stats){
     //0
    var PAsum = 0; // 0
