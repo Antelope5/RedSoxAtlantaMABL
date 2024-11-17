@@ -6,6 +6,7 @@ var AlexanderVStats= [
     {'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' :  0 },
     {'PA' : 4,'AB' :  3, 'R' :  3, 'H' : 2, 'Single' : 1, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  2, 'CS' :  0 },
     {'PA' : 3,'AB' :  2, 'R' :  3, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 2, 'Single' : 0, 'Double' : 2, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 
 ]
@@ -16,7 +17,8 @@ var AnthonyStats = [
     {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' : 0  },
     {'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' : 0  },
     {'PA' : 3,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 1, 'SB' :  1, 'CS' : 0 },
-
+    {'PA' : 3,'AB' :  3, 'R' :  2, 'H' : 2, 'Single' : 0, 'Double' : 2, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+    
 
 ]
 
@@ -31,6 +33,8 @@ var BrendanLarkin = [
     {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  1, 'CS' :  0},
     {'PA' : 4,'AB' :  3, 'R' :  4, 'H' : 3, 'Single' : 3, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 2, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    
 
 ]
 
@@ -47,6 +51,7 @@ var JulioStats = [
     {'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 1, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
     {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
     
 
@@ -66,6 +71,8 @@ var LennyPeralta = [
     {'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
     {'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 2, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 3, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 1,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
+
 
 
 ]
@@ -77,6 +84,7 @@ var LuisMoronta =[
     {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 2, 'Single' : 1, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' : 0  },
     {'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 1, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' : 0  },
     {'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  1, 'CS' : 0  },
+    {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0  },
 
 
 
@@ -87,6 +95,8 @@ var LuisBaroni =[
     {'PA' : 4,'AB' :  1, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 3, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  1, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+
 
 
 ]
@@ -97,6 +107,8 @@ var LuisMartinez = [
     {'PA' : 2,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
     {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 2, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+
 
 
 ]
@@ -108,6 +120,8 @@ var LuisMunoz = [
     {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 2,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  1, 'CS' :  0 },
+
 
 
 
@@ -120,6 +134,8 @@ var ServioRincon =[
     {'PA' : 4,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' : 0 , 'CS' :  0 },
     {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 0 , 'CS' :  0 },
+
 
 
 ]
