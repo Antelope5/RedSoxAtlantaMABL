@@ -7,7 +7,7 @@ var AlexanderVStats= [
 ]
 
 var AnthonyStats = [
-    {'PA' : ,'AB' :  , 'R' :  , 'H' : , 'Single' : , 'Double' : , 'Triple': , 'HR' : , 'RBI' : , 'HBP': , 'BB' : , 'K' : , 'SB' :  , 'CS' :   },
+    
 
     
 
