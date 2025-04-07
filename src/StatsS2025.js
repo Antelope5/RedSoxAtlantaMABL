@@ -258,7 +258,7 @@ var ServioRinconTotalStats = ServioRinconSumStats.concat(calculateStats(ServioRi
 ServioRinconTotalStats.splice(0,0,"Servio Rincon");
 
 var LeswardSuitTotalStats = LeswardSuitSumStats.concat(calculateStats(LeswardSuitSumStats));
-LeswardSuitTotalStats.splice(0,0,"Lesward Suit");
+LeswardSuitTotalStats.splice(0,0,"Lesdward Suit");
 
 var TylerKendrickTotalStats = TylerKendrickSumStats.concat(calculateStats(TylerKendrickSumStats));
 TylerKendrickTotalStats.splice(0,0,"Tyler Kendrick");
