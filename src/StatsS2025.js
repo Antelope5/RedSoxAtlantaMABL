@@ -181,7 +181,13 @@ function calculateStats(data){
     var OPS;
     var currentStats = data;
 
-    if (currentStats[2] == 0){
+    if (currentStats[1] == 0){
+        AVG = 0.000;
+        OBP = 0.000;
+        SLG = 0.000;
+        OPS = OBP + SLG;
+    }
+    else if (currentStats[1] != 0 && currentStats[2] == 0){
         AVG = 0.000;
         OBP = (currentStats[4]+currentStats[11]+currentStats[10])/(currentStats[2]+currentStats[11]+currentStats[10]);
         SLG = 0.000;
