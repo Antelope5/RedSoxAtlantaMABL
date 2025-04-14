@@ -33,7 +33,7 @@ var EnyerPerozo =[
 
 var JulioStats = [
     {'Game': "vs Senators" ,'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 3, 'Single' : 2, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0 },
-    {'Game': "vs Wraiths", PA' : 4,'AB' :  4, 'R' :  0, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
+    {'Game': "vs Wraiths", 'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
 
 
     
