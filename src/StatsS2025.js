@@ -2,7 +2,7 @@
 // {'PA' : ,'AB' :  , 'R' :  , 'H' : , 'Single' : , 'Double' : , 'Triple': , 'HR' : , 'RBI' : , 'HBP': , 'BB' : , 'K' : , 'SB' :  , 'CS' :   },
 var AlexanderVStats= [
     {'PA' : 4,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },
-
+    {'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },
 
 ]
 
@@ -32,7 +32,7 @@ var EnyerPerozo =[
 
 var JulioStats = [
     {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 3, 'Single' : 2, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0 },
-
+    {'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
 
     
 
@@ -46,7 +46,8 @@ var KevinAlvarez =[
 ]
 
 var LennyPeralta = [
-  {'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0},    
+  {'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0},
+  {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
 
 
 
@@ -60,6 +61,7 @@ var LuisMoronta =[
 ]
 var LuisBaroni =[
     {'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 3, 'SB' :  0, 'CS' :  0},
+    {'PA' : 3,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0},
 
 
 
