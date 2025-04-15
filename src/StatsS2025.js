@@ -178,6 +178,7 @@ var ServioRinconSumStats = addStats(ServioRincon);
 var LeswardSuitSumStats = addStats(LeswardSuit);
 var TylerKendrickSumStats = addStats(TylerKendrick);
 var HamptonMamaySumStats = addStats(HamptonMamay);
+var BobbyBonillaSumStats = addStats(BobbyBonilla);
 
 
 // Calculating AVG OBP SLG OPS with the newly created *SumStats array
@@ -273,11 +274,14 @@ TylerKendrickTotalStats.splice(0,0,"Tyler Kendrick");
 var HamptonMamayTotalStats = HamptonMamaySumStats.concat(calculateStats(HamptonMamaySumStats));
 HamptonMamayTotalStats.splice(0,0,"Hampton Mamay");
 
+var BobbyBonillaTotalStats = BobbyBonillaSumStats.concat(calculateStats(BobbyBonillaSumStats));
+BobbyBonillaTotalStats.splice(0,0,"Bobby Bonilla");
 
 
 
-// CONCATING all the Total stats to make one big array. in alpha order
-var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMorontaTotalStats,ServioRinconTotalStats,LeswardSuitTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats);
+
+// CONCATING all the Total stats to make one big array. 
+var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMorontaTotalStats,ServioRinconTotalStats,LeswardSuitTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats);
 console.log(AllPlayersStats);
 
 
