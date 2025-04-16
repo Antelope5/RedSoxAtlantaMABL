@@ -113,7 +113,7 @@ var Dario =[
   
 ]
 
-var BobbyBoniila =[
+var BobbyBonilla =[
   {'PA' : 1,'AB' :  1, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 ]
 //add comment
