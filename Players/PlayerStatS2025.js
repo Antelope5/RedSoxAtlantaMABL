@@ -115,8 +115,9 @@ var HamptonMamay =[
   
 ]
 
-var Dario =[
+var DarioColmenares =[
   {'Game': "vs Wraiths",'PA' : 1,'AB' :  1, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 0, 'CS' : 0  },
+  {'Game': "vs Cyclones",'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },  
   
 ]
 
