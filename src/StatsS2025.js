@@ -115,9 +115,9 @@ var HamptonMamay =[
   
 ]
 
-var Dario =[
+var DarioColmenares =[
   {'PA' : 1,'AB' :  1, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 0, 'CS' : 0  },
-  {'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },  
+  {'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },  
   
 ]
 
@@ -187,6 +187,7 @@ var LeswardSuitSumStats = addStats(LeswardSuit);
 var TylerKendrickSumStats = addStats(TylerKendrick);
 var HamptonMamaySumStats = addStats(HamptonMamay);
 var BobbyBonillaSumStats = addStats(BobbyBonilla);
+var DarioColmenaresSumStats = addStats(DarioColmenares);
 
 
 // Calculating AVG OBP SLG OPS with the newly created *SumStats array
@@ -285,11 +286,14 @@ HamptonMamayTotalStats.splice(0,0,"Hampton Mamay");
 var BobbyBonillaTotalStats = BobbyBonillaSumStats.concat(calculateStats(BobbyBonillaSumStats));
 BobbyBonillaTotalStats.splice(0,0,"Bobby Bonilla");
 
+var DarioColmenaresTotalStats = DarioColmenaresSumStats.concat(calculateStats(DarioColmenaresSumStats));
+DarioColmenaresTotalStats.splice(0,0,"Dario Colmenares");
+
 
 
 
 // CONCATING all the Total stats to make one big array. 
-var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMorontaTotalStats,ServioRinconTotalStats,LeswardSuitTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats);
+var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMorontaTotalStats,ServioRinconTotalStats,LeswardSuitTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats,DarioColmenaresTotalStats);
 console.log(AllPlayersStats);
 
 
