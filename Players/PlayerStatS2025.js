@@ -3,7 +3,7 @@
 var AlexanderVStats= [
     {'Game': "vs Senators" ,'PA' : 4,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },
     {'Game': "vs Wraiths",'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
-    {'Game': "vs Cyclones",'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' :  0 },
+    {'Game': "vs Cyclones",'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' :  0 },
 
 ]
 
@@ -22,7 +22,7 @@ var BrandinNixon =[
 var BrendanLarkin = [
     {'Game': "vs Senators" ,'PA' : 4,'AB' :  1, 'R' :  3, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 2, 'K' : 0, 'SB' : 0 , 'CS' : 0},
     {'Game': "vs Wraiths" ,'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
-    {'Game': "vs Cyclones",'PA' : 3,'AB' :  1, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+    {'Game': "vs Cyclones",'PA' : 4,'AB' :  1, 'R' :  2, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 3, 'K' : 0, 'SB' :  0, 'CS' : 0  },
 
 
 ]
