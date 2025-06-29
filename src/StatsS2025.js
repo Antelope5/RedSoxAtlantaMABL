@@ -154,6 +154,16 @@ var BobbyBonilla =[
     {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' : 0  },
     {'PA' : 2,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 1 , 'CS' : 0  },
 ]
+
+var DalvisMora =[
+    {'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' : 0  },
+    {'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 5,'AB' :  4, 'R' :  2, 'H' : 4, 'Single' : 2, 'Double' : 1, 'Triple': 0, 'HR' : 1, 'RBI' : 5, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 2, 'Single' : 1, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'PA' : 5,'AB' :  4, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 3, 'SB' :  0, 'CS' :  0 },
+    
+]
+
 //add comment
 
 
@@ -218,6 +228,7 @@ var TylerKendrickSumStats = addStats(TylerKendrick);
 var HamptonMamaySumStats = addStats(HamptonMamay);
 var BobbyBonillaSumStats = addStats(BobbyBonilla);
 var DarioColmenaresSumStats = addStats(DarioColmenares);
+var DalvisMoraSumStats = addStats(DalvisMora);
 
 
 // Calculating AVG OBP SLG OPS with the newly created *SumStats array
@@ -319,11 +330,14 @@ BobbyBonillaTotalStats.splice(0,0,"Bobby Bonilla");
 var DarioColmenaresTotalStats = DarioColmenaresSumStats.concat(calculateStats(DarioColmenaresSumStats));
 DarioColmenaresTotalStats.splice(0,0,"Dario Colmenares");
 
+var DalvisMoraTotalStats = DalvisMoraSumStats.concat(calculateStats(DalvisMoraSumStats));
+DalvisMoraTotalStats.splice(0,0,"Dalvis Mora");
+
 
 
 
 // CONCATING all the Total stats to make one big array. 
-var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMorontaTotalStats,ServioRinconTotalStats,LeswardSuitTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats,DarioColmenaresTotalStats);
+var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,EnyerPerozoTotalStats,JulioTotalStats,KevinAlvarezTotalStats,LennyPeraltaTotalStats,LuisBaroniTotalStats,LuisMorontaTotalStats,ServioRinconTotalStats,LeswardSuitTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats,DarioColmenaresTotalStats,DalvisMoraTotalStats);
 console.log(AllPlayersStats);
 
 
