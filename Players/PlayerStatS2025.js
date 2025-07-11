@@ -6,8 +6,8 @@ var AlexanderVStats= [
     {'Game': "vs Cyclones",'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' :  0 },
     {'Game': "vs Stripers",'PA' : 5,'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :   0},
     {'Game':"vs Bambinos", 'PA' : 5,'AB' :  3, 'R' :  3, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
-    {'Game':"vs Tortugas", 'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
-    {'Game':"vs Outlaws",'PA' : 5,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 1, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas", 'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  2, 'CS' :  0 },
+    {'Game':"vs Outlaws",'PA' : 5,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 1, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 3, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
     {'Game':"vs A's",'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 ]
