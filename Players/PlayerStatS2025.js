@@ -10,6 +10,8 @@ var AlexanderVStats= [
     {'Game':"vs Outlaws",'PA' : 5,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 1, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 3, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
     {'Game':"vs A's",'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'Game':"vs Disco Turkeys",'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  3, 'CS' :  0 },
+    {'Game':"vs Cyclones",'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 3, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 ]
 
@@ -35,6 +37,7 @@ var BrendanLarkin = [
     {'Game':"vs A's",'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'Game':"vs Disco Turkeys",'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     {'Game':"vs Wraiths" ,'PA' : 5,'AB' :  4, 'R' :  2, 'H' : 3, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 4, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Cyclones",'PA' : 4,'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
 
 
 ]
@@ -56,6 +59,8 @@ var JulioStats = [
     {'Game':"vs Disco Turkeys", 'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
     {'Game':"vs Wraiths" ,'PA' : 5,'AB' :  3, 'R' :  2, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 1, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
     {'Game':"vs Senators" ,'PA' : 5,'AB' :  3, 'R' :  2, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Cyclones",'PA' : 4,'AB' :  2, 'R' :  0, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 4,'AB' :  4, 'R' :  2, 'H' : 3, 'Single' : 3, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  1, 'CS' :  0 },
 
 
 
@@ -69,6 +74,7 @@ var KevinAlvarez =[
     {'Game':"vs Tortugas", 'PA' : 2,'AB' :  2, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0  },
     {'Game':"vs Outlaws", 'PA' : 2,'AB' :  1, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 0 , 'CS' : 0  },
     {'Game':"vs Disco Turkeys", 'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 0 , 'CS' : 0  },
+    {'Game':"vs Tortugas",'PA' : 4,'AB' :  2, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 
 ]
@@ -82,7 +88,9 @@ var LennyPeralta = [
   {'Game':"vs Tortugas", 'PA' : 4,'AB' :  2, 'R' :  3, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 2, 'K' : 1, 'SB' : 0 , 'CS' :   0},
   {'Game':"vs Outlaws",'PA' : 5,'AB' :  5, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 4, 'SB' :  0, 'CS' : 0 },
   {'Game':"vs Wraiths",'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 2, 'SB' :  0, 'CS' : 0  },
-  {'Game':"vs Senators" ,'PA' : 5,'AB' :  1, 'R' :  2, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 4, 'K' : 1, 'SB' :  0, 'CS' :  0 },  
+  {'Game':"vs Senators" ,'PA' : 5,'AB' :  1, 'R' :  2, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 4, 'K' : 1, 'SB' :  0, 'CS' :  0 },
+  {'Game':"vs Cyclones",'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
+  {'Game':"vs Tortugas",'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 },
     
 
 
@@ -101,6 +109,8 @@ var LuisMoronta =[
     {'Game': "vs Disco Turkeys", 'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  1, 'CS' :  0 },
     {'Game':"vs Wraiths",'PA' : 5,'AB' :  5, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
     {'Game':"vs Senators" ,'PA' : 5,'AB' :  2, 'R' :  2, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 3, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+    {'Game':"vs Cyclones",'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 1, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 4,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' :  0 },
 
 
 
@@ -116,6 +126,8 @@ var LuisBaroni =[
     {'Game':"vs A's",'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' : 0, 'CS' :  0 },
     {'Game':"vs Wraiths",'PA' : 4,'AB' :  2, 'R' :  2, 'H' : 2, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
     {'Game':"vs Senators" ,'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :   0},
+    {'Game':"vs Cyclones",'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 4,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
 
 
 
@@ -150,6 +162,8 @@ var LeswardSuit =[
     {'Game':"vs Outlaws", 'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' :  0 },
     {'Game': "vs Disco Turkeys", 'PA' : 4,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 2, 'SB' :  0, 'CS' : 0  },
     {'Game':"vs Senators",'PA' : 4,'AB' :  1, 'R' :  3, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 3, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Cyclones",'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
   
 ]
 
@@ -164,6 +178,8 @@ var TylerKendrick =[
     {'Game':"vs A's",'PA' : 3,'AB' :  2, 'R' : 1 , 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 0, 'CS' :  0 },
     {'Game':"vs Wraiths",'PA' : 5,'AB' :  3, 'R' :  2, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 0, 'CS' :  0 },
     {'Game':"vs Senators",'PA' : 5,'AB' :  2, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 1, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Cyclones",'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 4,'AB' :  2, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 1, 'SB' :  0, 'CS' :  0 },
   
 ]
 
@@ -172,6 +188,8 @@ var HamptonMamay =[
   {'Game': "vs Wraiths" ,'PA' : 2,'AB' :  2, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 2, 'SB' :  0, 'CS' : 0  },
     {'Game':"vs Tortugas", 'PA' : 2,'AB' :  0, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' :0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' : 0 , 'CS' :  0 },
     {'Game':"vs A's",'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Cyclones",'PA' : 1,'AB' :  0, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+    {'Game':"vs Tortugas",'PA' : 1,'AB' :  1, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
   
 ]
 
@@ -180,6 +198,7 @@ var DarioColmenares =[
   {'Game': "vs Cyclones",'PA' : 3,'AB' :  2, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :  0 }, 
   {'Game':"vs Tortugas", 'PA' : 4,'AB' :  3, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0},
   {'Game': "vs Wraiths" ,'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :   0},
+  {'Game':"vs Cyclones",'PA' : 3,'AB' :  3, 'R' :  1, 'H' : 2, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
 ]
 
 var BobbyBoniila =[
@@ -190,6 +209,7 @@ var BobbyBoniila =[
     {'Game':"vs A's",'PA' : 3,'AB' :  2, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 0 , 'CS' :  0 },
     {'Game': "vs Disco Turkeys", 'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
     {'Game': "vs Wraiths" ,'PA' : 4,'AB' :  1, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 3, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 3,'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
 ]
 
 var DalvisMora =[
@@ -202,6 +222,8 @@ var DalvisMora =[
     {'Game': "vs Disco Turkeys",'PA' : 4,'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  1, 'CS' :  0 },
     {'Game': "vs Wraiths" ,'PA' : 5,'AB' :  4, 'R' :  1, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 1, 'SB' :  0, 'CS' :   0},
     {'Game':"vs Senators",'PA' : 5,'AB' :  4, 'R' :  3, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 4, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :   0},
+    {'Game': "vs Wraiths" ,'PA' : 4,'AB' :  4, 'R' :  1, 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 4, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+    {'Game':"vs Tortugas",'PA' : 4,'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     
 ]
 
