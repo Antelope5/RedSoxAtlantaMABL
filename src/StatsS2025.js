@@ -18,7 +18,8 @@ var AlexanderVStats= [
 
 var AnthonyStats = [
     
-
+    {'PA' : 3,'AB' :  2, 'R' :  3, 'H' : 2, 'Single' : 2, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' : 0  },
+    {'PA' : 2,'AB' :  2, 'R' :  0, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0  },
     
 
 ]
