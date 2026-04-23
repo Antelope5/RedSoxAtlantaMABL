@@ -325,7 +325,7 @@ JonathanPulidoTotalStats.splice(0,0,"Jonathan Pulido");
 
 
 // CONCATING all the Total stats to make one big array. 
-var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,JulioTotalStats,JonathanPulidoTotalStat,LennyPeraltaTotalStats,LuisMorontaTotalStats,LeswardSuitTotalStats,OmarFerminTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats,DarioColmenaresTotalStats,DalvisMoraTotalStats,IsrealGilTotalStats,SpencerCapeTotalStats);
+var AllPlayersStats = AlexanderTotalStats.concat(AnthonyTotalStats,BrendanLarkinTotalStats,JulioTotalStats,JonathanPulidoTotalStats,LennyPeraltaTotalStats,LuisMorontaTotalStats,LeswardSuitTotalStats,OmarFerminTotalStats,TylerKendrickTotalStats,HamptonMamayTotalStats,BobbyBonillaTotalStats,DarioColmenaresTotalStats,DalvisMoraTotalStats,IsrealGilTotalStats,SpencerCapeTotalStats);
 console.log(AllPlayersStats);
 
 
