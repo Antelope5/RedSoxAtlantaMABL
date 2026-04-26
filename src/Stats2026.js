@@ -311,10 +311,10 @@ var DalvisMoraTotalStats = DalvisMoraSumStats.concat(calculateStats(DalvisMoraSu
 DalvisMoraTotalStats.splice(0,0,"Dalvis Mora");
 
 var IsrealGilTotalStats = IsrealGilSumStats.concat(calculateStats(IsrealGilSumStats));
-IsrealGilTotalStats.splice(0,0,"IsrealGil");
+IsrealGilTotalStats.splice(0,0,"Isreal Gil");
 
 var SpencerCapeTotalStats = SpencerCapeSumStats.concat(calculateStats(SpencerCapeSumStats));
-SpencerCapeTotalStats.splice(0,0,"SpencerCape");
+SpencerCapeTotalStats.splice(0,0,"Spencer Cape");
 
 var OmarFerminTotalStats = OmarFerminSumStats.concat(calculateStats(OmarFerminSumStats));
 OmarFerminTotalStats.splice(0,0,"Omar Fermin");
