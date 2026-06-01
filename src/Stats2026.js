@@ -83,7 +83,7 @@ var LuisMoronta =[
      {'PA' : 3, 'AB' :  2, 'R' :  1, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
      {'PA' : 5, 'AB' :  5, 'R' :  1, 'H' : 3, 'Single' : 2, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 0, 'K' : 1, 'SB' :  0, 'CS' :  0 },
      {'PA' : 4, 'AB' :  4, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  0, 'CS' : 0  },
-     {'PA' : 5, 'AB' : 4 , 'R' : 1 , 'H' : 1, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  1, 'CS' :  0 },
+     {'PA' : 5, 'AB' : 4 , 'R' : 1 , 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  1, 'CS' :  0 },
 
 
 ]
