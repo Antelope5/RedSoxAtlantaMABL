@@ -56,7 +56,7 @@ var JulioStats = [
      {'Game': "vs Disco Turkeys", 'PA' : 3, 'AB' :  3, 'R' :  0, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 0, 'K' : 0, 'SB' :  1, 'CS' : 0  },
      {'Game': "vs Stripers", 'PA' : 5, 'AB' :  4, 'R' :  2, 'H' : 2, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 1, 'RBI' : 3, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' : 0 , 'CS' : 1  },
     {'Game': "vs Outlaws", 'PA' : 4, 'AB' :  3, 'R' :  0, 'H' : 0, 'Single' : 0, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 1, 'K' : 0, 'SB' :  0, 'CS' :  0 },
-     {'Game': "vs Storm Chasers", 'PA' : 5, 'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 0, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
+     {'Game': "vs Storm Chasers", 'PA' : 5, 'AB' :  3, 'R' :  2, 'H' : 1, 'Single' : 1, 'Double' : 0, 'Triple': 0, 'HR' : 0, 'RBI' : 1, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  0, 'CS' :  0 },
     
 
 
