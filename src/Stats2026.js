@@ -1,4 +1,4 @@
-// This script should get the added stats game by game for each player
+// This script should get the added stats game by game for each player.
 // {'PA' : , 'AB' :  , 'R' :  , 'H' : , 'Single' : , 'Double' : , 'Triple': , 'HR' : , 'RBI' : , 'HBP': , 'BB' : , 'K' : , 'SB' :  , 'CS' :   },
 var AlexanderVStats= [
      {'PA' : 3, 'AB' :  1, 'R' :  2, 'H' : 1, 'Single' : 0, 'Double' : 1, 'Triple': 0, 'HR' : 0, 'RBI' : 2, 'HBP': 0, 'BB' : 2, 'K' : 0, 'SB' :  1, 'CS' :  0 },
